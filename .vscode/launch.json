@@ -1,0 +1,10 @@
+{
+	--snip--
+	"configurations": [
+		{
+			--snip--
+			"console": "internalConsole",
+			"justMyCode": true
+		}
+	]
+}
