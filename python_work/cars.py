@@ -18,4 +18,11 @@ print(cars)
 cars.reverse()
 print(cars)
 
-print(len(cars))
+print(len(cars), "\n")
+
+#if-Anweisungen
+for car in cars:
+    if car == 'bmw':
+        print(car.upper())
+    else:
+        print(car.title())
