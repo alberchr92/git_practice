@@ -6,3 +6,4 @@ print(f"Hello, {full_name.title()}!")
 
 message = f"Hello, {full_name.title()}!"
 print(message)
+
